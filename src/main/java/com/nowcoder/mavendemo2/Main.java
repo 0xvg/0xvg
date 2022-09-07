@@ -7,6 +7,7 @@ public class Main {
                 break;
             }
             System.out.println(i);
+            System.out.println("尼玛");
         }
     }
 }
