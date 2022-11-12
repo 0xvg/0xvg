@@ -6,6 +6,7 @@ package com.nowcoder.mavendemo2.demo2;
  */
 public class Text7 {
     public static void main(String[] args) {
-        System.out.println("有点毛病");
+        System.out.println("有点问题");
+        System.out.println("-----------");
     }
 }
